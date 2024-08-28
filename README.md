@@ -1,4 +1,4 @@
-# TodoList
+# Todo List
 A simple, interactive tool for managing tasks, featuring task addition, completion, and filtering functionalities.
 
 
@@ -22,3 +22,25 @@ This To-Do List web application allows users to add, complete, and filter tasks 
 - **JavaScript** for interactive features and dynamic task management
 - **Font Awesome** for icons
 
+
+## Installation
+1. Clone this repository: 
+``` bash
+git clone https://github.com/Nthasneem03/LuckyDice.git
+```
+
+2. Navigate to the project directory: `cd TodoList`
+3. Open index.html in a web browser to view the application.
+
+
+## Contributing
+Feel free to fork this repository and submit pull requests. If you find any issues or have suggestions for improvements, please open an issue.
+
+## Contact
+For any questions or suggestions, please reach out via GitHub Issues or [email](mailto:naeemathasneem03@gmail.com).
+
+
+## Acknowledgements
+
+- [Font Awesome](https://fontawesome.com) for the icons
+- [GitHub](https://github.com) for hosting the code
