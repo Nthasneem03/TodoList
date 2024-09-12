@@ -40,7 +40,4 @@ Feel free to fork this repository and submit pull requests. If you find any issu
 For any questions or suggestions, please reach out via GitHub Issues or [email](mailto:naeemathasneem03@gmail.com).
 
 
-## Acknowledgements
 
-- [Font Awesome](https://fontawesome.com) for the icons
-- [GitHub](https://github.com) for hosting the code
